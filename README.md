@@ -20,3 +20,5 @@ and a fact and image of the planet would be shown. I did this be calculating the
 to the top, bottom, left and right of the planet and making it so if mouseX and MouseY
 where within those coordinates an image would show displaying facts and the planet. I did
 this for all the planets. 
+
+Also note no orchestra.wav file has been included as it is pretty big
